@@ -38,7 +38,7 @@ python main.py
 Follow the on-screen instructions to input OGI images and view the model's predictions.  
 
 ### 📊 **Results and Observations**  
-The model's performance showed promise during testing, accurately identifying helium leaks in simulated image data. This success demonstrates its potential to enhance safety in space missions and reduce the risk of hazardous situations.  
+The model's performance showed promise during testing, it can accurately identify helium leaks in simulated image data. Given more professional image, this ML Model is bound to show progress! This trial demonstrates its potential to enhance safety in space missions and reduce the risk of hazardous situations.  
 
 ### 💡 **What I Learned**  
 Developing this project deepened my understanding of how to apply machine learning to niche fields such as aerospace safety. Key learnings include:  
